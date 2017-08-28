@@ -1,0 +1,6 @@
+{
+  "test.py::TestCase": true, 
+  "test.py::TestHelloWorld": true, 
+  "test.py::TestHelloWorld::test_hello_world": true, 
+  "tt.py::TestHelloWorld::test_hello_world": true
+}
